@@ -47,4 +47,4 @@ A responsive school website developed with WordPress using the Blocksy theme.
 ---
 
 # 👨‍💻 Developer
-Nduka Ebube Junior || Ebullient Technology
+Nduka Ebube Junior || Ebullient Technologies 
